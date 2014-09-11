@@ -59,9 +59,7 @@ Microsoft Certified Application Developer For Microsoft .NET, Microsoft Certifie
 
 ###Positions held:
 
-08/2013 - current 
-
-Freelance Devops/Developer/Front end
+08/2013 -Freelance Devops/Developer/Front end
 
 08/2010 - 08/2012
 Head of Deveops
