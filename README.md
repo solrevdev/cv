@@ -1,11 +1,19 @@
 #John Joseph Smith
+
 ##Personal details
+
 Name: John Joseph Smith
+
 Date of birth: 08/04/1975
+
 Phone: 01865 600 825
+
 Email:john@solrevdev.com
+
 Web: http://www.solrevdev.com
+
 LinkedIn Profile: https://www.linkedin.com/in/solrevdev
+
 StackOverflow profile: http://stackoverflow.com/users/2041/john
 
 I am a software developer and devops engineer and have a wealth of technical skills with over 15 years experience working as a developer and am Microsoft certified.
